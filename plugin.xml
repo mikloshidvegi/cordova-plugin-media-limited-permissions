@@ -20,15 +20,15 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-media"
-    version="5.0.5-dev">
+    id="cordova-plugin-media-limited-permissions"
+    version="1.0.0">
 
     <name>Media</name>
     <description>Cordova Media Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,media</keywords>
-    <repo>https://github.com/apache/cordova-plugin-media</repo>
-    <issue>https://github.com/apache/cordova-plugin-media/issues</issue>
+    <repo>https://github.com/mikloshidvegi/cordova-plugin-media-limited-permissions</repo>
+    <issue>https://github.com/mikloshidvegi/cordova-plugin-media-limited-permissions/issues</issue>
 
     <engines>
         <engine name="cordova-android" version=">=6.3.0" />
