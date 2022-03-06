@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-media",
-  "version": "5.0.5-dev",
-  "description": "Cordova Media Plugin",
+  "name": "cordova-plugin-media-limited-permissions",
+  "version": "1.0.0",
+  "description": "Cordova Media Plugin with Limited Permissions",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-media",
+    "id": "cordova-plugin-media-limited-permissions",
     "platforms": [
       "android",
       "browser",
@@ -12,8 +12,8 @@
       "windows"
     ]
   },
-  "repository": "github:apache/cordova-plugin-media",
-  "bugs": "https://github.com/apache/cordova-plugin-media/issues",
+  "repository": "github:mikloshidvegi/cordova-plugin-media-limited-permissions",
+  "bugs": "https://github.com/mikloshidvegi/cordova-plugin-media-limited-permissions/issues",
   "keywords": [
     "cordova",
     "media",
