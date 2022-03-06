@@ -1,6 +1,6 @@
 ---
 title: Media
-description: Record and play audio on the device.
+description: Play audio on the device.
 ---
 <!--
 # license: Licensed to the Apache Software Foundation (ASF) under one
